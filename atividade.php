@@ -125,3 +125,5 @@ $alunos =
     };
     };
     cadastro($usuario);
+
+?>
